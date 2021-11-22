@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4051c4ce983b16a4ebbb91b47f6ad523, type: 3}
+  m_Name: BodyCover
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemClass: 1
+  bodyPart: 1
+  itemSprite: {fileID: 2893557508055533730, guid: 02f0f12607790ec4d8cba6a015ba9518,
+    type: 3}
+  itemAmt: 1
+  itemCost: 10
